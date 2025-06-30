@@ -1,4 +1,4 @@
-⁸# Blood Test Report Analyser - Debugged Version
+# Blood Test Report Analyser - Debugged Version
 
 This project is a FastAPI application that uses CrewAI agents to analyze blood test reports and provide recommendations.
 
