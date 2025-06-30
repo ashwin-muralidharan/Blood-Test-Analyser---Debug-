@@ -1,4 +1,4 @@
-# Blood Test Report Analyser - Debugged Version
+⁸# Blood Test Report Analyser - Debugged Version
 
 This project is a FastAPI application that uses CrewAI agents to analyze blood test reports and provide recommendations.
 
@@ -96,8 +96,6 @@ pip install -r requirements.txt
 ```
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
-
-✅ **Important:** Never share your `.env` file.
 
 5️⃣ Run the application
 
